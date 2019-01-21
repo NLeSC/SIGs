@@ -13,7 +13,17 @@ A new SIG must have at least an office group and GitHub repository. The former i
 
 Once an office group and a GitHub repository are set, the TechLeads will announce the SIG to all employees of the Netherlands eScience Center so the interested ones can subscribe to the group mailing list. After the announcement, all communication is done via SIG's mailing list and controlled by the SIG's team.
 
+## Active SIGs
 
+Only the listed SIGs are considered active.
+* [Machine Learning](https://github.com/NLeSC/Machine_Learning_SIG).
+* [Data](https://github.com/NLeSC/data-sig)
+* [Natural Language Processing](https://github.com/NLeSC/natural-language-processing-sig)
+* [GPUs and Efficient Computing]()
+* [Orchestration & Workflows]()
+* [Statistics](https://github.com/NLeSC/Statistics-SIG)
+* [Numerical Methods](https://github.com/NLeSC/NumTech-sig)
+* [Visualization & Computer Graphics]()
 
 
 
